@@ -8,6 +8,3 @@ print("feature C")
 #featur B
 
 print ("feature B")
-
-
->>>>>>> master
